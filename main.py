@@ -53,3 +53,6 @@ print(player)
 
 
 # dependiendo que tan grande queres q sea el juego  va a tardar mucho y por eso podemos hacerlo juntos y entrenas tu trabajo en equipo
+enemigos = []
+cartas = []
+#podes primero definiendo todas las cartas que quieras poner en el juego
